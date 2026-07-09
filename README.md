@@ -16,7 +16,7 @@ Using **OpenCV** and **MediaPipe**, this lightweight Python script monitors your
 
 2. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/bolanxu/bad-habit-breaker.git](https://github.com/bolaxu/bad-habit-breaker.git)
+   git clone https://github.com/bolanxu/bad-habit-breaker.git
    cd bad-habit-breaker
    ```
 3. **Install Dependencies:** Run the following command to install the precise, stable versions of the required libraries:
