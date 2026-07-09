@@ -30,7 +30,7 @@ Using **OpenCV** and **MediaPipe**, this lightweight Python script monitors your
 
 3. Run the script:
    ```bash
-   python habit_breaker.py
+   python3 habit_breaker.py
    ```
 
 4. **Calibrate (Optional)**: If the alarm triggers too early or too late, open habit_breaker.py and adjust the ```TRIGGER_DISTANCE``` variable:
